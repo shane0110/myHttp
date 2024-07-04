@@ -1,0 +1,17 @@
+{
+  "name": "myhttp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "a":"nodemon index.mjs shane "
+  },
+  "keywords": [],
+  "author": "Shane",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.77.6"
+  }
+}
